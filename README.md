@@ -27,8 +27,8 @@ Welcome to my GitHub profile!
 
 Here are some of the projects I’ve been working on:
 
-- **[Repo 1](https://github.com/yohanEngineer47/portfolio)** — My portfolio
-- **[Repo 2](https://github.com/yohanEngineer47/autre_projets)** — My other projects
+- **[My portfolio](https://github.com/yohanEngineer47/portfolio)** — My portfolio
+- **[Other projects](https://github.com/yohanEngineer47/autre_projets)** — My other projects
 
 
 👉 Want to see more?
