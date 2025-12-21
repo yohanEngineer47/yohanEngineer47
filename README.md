@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 |------|----------------------|
 | Languages | Python, JavaScript, Java, PHP |
 | Web | HTML, CSS, boostrap |
-| Other | Git, Docker, Linux |
+| Other | Git, Linux |
 
 ---
 
@@ -29,6 +29,7 @@ Here are some of the projects I’ve been working on:
 
 - **[My portfolio](https://github.com/yohanEngineer47/portfolio)** — My portfolio
 - **[Other projects](https://github.com/yohanEngineer47/autre_projets)** — My other projects
+- **[Bawon +](https://github.com/yohanEngineer47/Bawon.git)** — Bawon + project 
 
 
 👉 Want to see more?
