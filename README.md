@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 ## 🧭 About Me
 
 - Back-end Developer passionate about science computer and mathematics…
-- Interests: AI, software engineering, and quantum computer.
+- Interests: AI engineering, software engineering, and quantum computer.
 - Currently working on: Project Green-Book and Project Portfolio
 
 ---
