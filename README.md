@@ -7,9 +7,9 @@ Welcome to my GitHub profile!
 
 ## 🧭 About Me
 
-- Developer / engineer passionate about …
-- Interests: AI, web development, automation, software engineering, etc.
-- Currently working on: Project Green-Book, Project Portfolio, …
+- Back-end Developer passionate about science computer and mathematics…
+- Interests: AI, software engineering, and quantum computer.
+- Currently working on: Project Green-Book and Project Portfolio
 
 ---
 
@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 | Area | Tools / Technologies |
 |------|----------------------|
-| Languages | Python, JavaScript, Java, PHP |
-| Web | HTML, CSS, boostrap |
+| Languages | Python, Java |
+| Web | HTML, CSS |
 | Other | Git, Linux |
 
 ---
@@ -28,12 +28,7 @@ Welcome to my GitHub profile!
 Here are some of the projects I’ve been working on:
 
 - **[My portfolio](https://github.com/yohanEngineer47/portfolio)** — My portfolio
-- **[Other projects](https://github.com/yohanEngineer47/autre_projets)** — My other projects
-- **[Bawon +](https://github.com/yohanEngineer47/Bawon.git)** — Bawon + project 
-
-
-👉 Want to see more?
-📁 **All my repositories:** https://github.com/yohanEngineer47?tab=repositories
+- **[Bawon +](https://github.com/yohanEngineer47/Bawon.git)** — Bawon project 
 
 ---
 
